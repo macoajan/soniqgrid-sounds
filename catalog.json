@@ -1,6 +1,27 @@
 {
   "packages": [
     {
+      "attribution": "Fluid (R3) SoundFont by Frank Wen, MIT licence.",
+      "entryFile": "fluidr3-gm/FluidR3_GM.sf2",
+      "homepage": "https://github.com/pianobooster/fluid-soundfont",
+      "id": "fluidr3-gm",
+      "installedBytes": 163000000,
+      "instruments": [
+        "Sgmp"
+      ],
+      "licence": "MIT",
+      "name": "Fluid R3 General MIDI",
+      "parts": [
+        {
+          "bytes": 148403712,
+          "sha256": "83224e66a73da095f0c978d7783fc992bc4503efe25adf8c98369b9db447db12",
+          "url": "https://github.com/macoajan/soniqgrid-sounds/releases/download/fluidr3-gm-1/fluidr3-gm-1.tar.001"
+        }
+      ],
+      "summary": "A complete General MIDI set: 128 instruments, variations and drum kits, for the GM player and MIDI files.",
+      "version": "1"
+    },
+    {
       "attribution": "Salamander Grand Piano V3 by Alexander Holm, CC BY 3.0 (creativecommons.org/licenses/by/3.0). Source: FreePats project (freepats.zenvoid.org). Converted losslessly to FLAC.",
       "entryFile": "salamander-grand-light/SalamanderGrandPianoV3.sfz",
       "homepage": "https://freepats.zenvoid.org/Piano/acoustic-grand-piano.html",

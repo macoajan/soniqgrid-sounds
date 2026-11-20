@@ -1,0 +1,5 @@
+Fluid (R3) SoundFont, General MIDI bank - Copyright (c) 2000-2002, 2008 Frank Wen.
+Released under the MIT licence (see LICENSE.txt). Built in part from public-domain samples and from recordings by the
+author, with the help of Suren M. Seron, Scott Hanan, Steve Aupperle, Chris Gillman, Alex Taubr, Chris Prola, Andrew Klenk,
+Winfried Hubbe and Dylan.
+Source: https://github.com/pianobooster/fluid-soundfont (release v3.1). Packaged unmodified for SoniqGrid's Sound Library.
