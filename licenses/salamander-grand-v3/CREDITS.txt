@@ -1,0 +1,6 @@
+Salamander Grand Piano V3 by Alexander Holm.
+Licensed under the Creative Commons Attribution 3.0 Unported licence (CC BY 3.0):
+https://creativecommons.org/licenses/by/3.0/
+Source: the FreePats project, https://freepats.zenvoid.org/Piano/acoustic-grand-piano.html
+Changes: none to the samples or the SFZ (FreePats v3+20200602 SFZ+FLAC edition, assembled by roberto@zenvoid.org).
+Packaged for SoniqGrid's Sound Library (SFZ + FLAC, lossless).

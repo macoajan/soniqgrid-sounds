@@ -1,6 +1,48 @@
 {
   "packages": [
     {
+      "attribution": "Salamander Grand Piano V3 by Alexander Holm, CC BY 3.0 (creativecommons.org/licenses/by/3.0). Source: FreePats project (freepats.zenvoid.org). Converted losslessly to FLAC.",
+      "entryFile": "salamander-grand-light/SalamanderGrandPianoV3.sfz",
+      "homepage": "https://freepats.zenvoid.org/Piano/acoustic-grand-piano.html",
+      "id": "salamander-grand-light",
+      "installedBytes": 1200735000,
+      "instruments": [
+        "Sgpn"
+      ],
+      "licence": "CC BY 3.0",
+      "name": "Salamander Grand Piano Light",
+      "parts": [
+        {
+          "bytes": 169303552,
+          "sha256": "e9600821da3ea03f0a0d92b49c8f50c9a967f916ec255573f2951e38df928b10",
+          "url": "https://github.com/macoajan/soniqgrid-sounds/releases/download/salamander-grand-light-1/salamander-grand-light-1.tar.001"
+        }
+      ],
+      "summary": "The same concert grand at 44.1 kHz / 16-bit: a smaller download and less space on the device.",
+      "version": "1"
+    },
+    {
+      "attribution": "Salamander Grand Piano V3 by Alexander Holm, CC BY 3.0 (creativecommons.org/licenses/by/3.0). Source: FreePats project (freepats.zenvoid.org).",
+      "entryFile": "salamander-grand-v3/SalamanderGrandPiano-V3+20200602.sfz",
+      "homepage": "https://freepats.zenvoid.org/Piano/acoustic-grand-piano.html",
+      "id": "salamander-grand-v3",
+      "installedBytes": 1961146000,
+      "instruments": [
+        "Sgpn"
+      ],
+      "licence": "CC BY 3.0",
+      "name": "Salamander Grand Piano",
+      "parts": [
+        {
+          "bytes": 747347456,
+          "sha256": "b1f77089016b3c4afec4868b70338ef621266bd33a96a6172df23b907836c305",
+          "url": "https://github.com/macoajan/soniqgrid-sounds/releases/download/salamander-grand-v3-1/salamander-grand-v3-1.tar.001"
+        }
+      ],
+      "summary": "Concert grand, 16 velocity layers, release and pedal noises, string resonance; 48 kHz / 24-bit.",
+      "version": "1"
+    },
+    {
       "attribution": "Upright Piano KW - FreePats project (freepats.zenvoid.org). Recorded by Gonzalo and Roberto, 2017. Public domain (CC0).",
       "entryFile": "upright-piano-kw/UprightPianoKW-20220221.sfz",
       "homepage": "https://freepats.zenvoid.org/Piano/acoustic-grand-piano.html",
