@@ -1,0 +1,4 @@
+Upright Piano KW (version 2022-02-21) - FreePats project, https://freepats.zenvoid.org
+Recorded by Gonzalo and Roberto in January 2017; edited by Roberto.
+Dedicated to the public domain under Creative Commons CC0 1.0 Universal (see LICENSE).
+Packaged unmodified (SFZ + FLAC samples) for SoniqGrid's Sound Library.

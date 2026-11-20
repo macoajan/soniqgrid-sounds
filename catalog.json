@@ -1,0 +1,26 @@
+{
+  "packages": [
+    {
+      "attribution": "Upright Piano KW - FreePats project (freepats.zenvoid.org). Recorded by Gonzalo and Roberto, 2017. Public domain (CC0).",
+      "entryFile": "upright-piano-kw/UprightPianoKW-20220221.sfz",
+      "homepage": "https://freepats.zenvoid.org/Piano/acoustic-grand-piano.html",
+      "id": "upright-piano-kw",
+      "installedBytes": 86100000,
+      "instruments": [
+        "Supr"
+      ],
+      "licence": "CC0 1.0",
+      "name": "Upright Piano KW",
+      "parts": [
+        {
+          "bytes": 32868352,
+          "sha256": "35d4ed820353bf7f9796efc74376b3c4df08cc9b69dadf84f7f798da381c450b",
+          "url": "https://github.com/macoajan/soniqgrid-sounds/releases/download/upright-piano-kw-1/upright-piano-kw-1.tar.001"
+        }
+      ],
+      "summary": "Home upright piano, two velocity layers, looped bass notes (FreePats).",
+      "version": "1"
+    }
+  ],
+  "version": 1
+}
