@@ -1,6 +1,6 @@
 # SoniqGrid Sound Library (test phase)
 
-Downloadable sound content for the SoniqGrid app (Preferences › Sound Library).
+Downloadable sound content
 
 - `catalog.json` — the catalog the app reads (`https://raw.githubusercontent.com/macoajan/soniqgrid-sounds/main/catalog.json`).
 - `licenses/<id>/` — licence and credits of every package.
