@@ -83,6 +83,27 @@
       ],
       "summary": "Home upright piano, two velocity layers, looped bass notes (FreePats).",
       "version": "1"
+    },
+    {
+      "attribution": "VSCO 2 Community Edition by Versilian Studios (Sam Gossner, Simon Dalzell, Elan Hickler), CC0.",
+      "entryFile": "vsco2-ce/Orchestra.programs.json",
+      "homepage": "https://github.com/sgossner/VSCO-2-CE",
+      "id": "vsco2-ce",
+      "installedBytes": 2236000000,
+      "instruments": [
+        "Sorc"
+      ],
+      "licence": "CC0 1.0",
+      "name": "Orchestra (VSCO 2 Community Edition)",
+      "parts": [
+        {
+          "bytes": 713351680,
+          "sha256": "c62da08bbd94a385f8cd33eadfb59766981db768288f485e563abedb1bce6745",
+          "url": "https://github.com/macoajan/soniqgrid-sounds/releases/download/vsco2-ce-1/vsco2-ce-1.tar.001"
+        }
+      ],
+      "summary": "Chamber orchestra: strings with keyswitched articulations, woodwinds, brass, orchestral percussion and keys; 46 instruments.",
+      "version": "1"
     }
   ],
   "version": 1

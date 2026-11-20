@@ -1,0 +1,5 @@
+VSCO 2: Community Edition (version 1.1.0) by Versilian Studios - recorded by Sam Gossner & Simon Dalzell, sample cutting
+by Elan Hickler. https://github.com/sgossner/VSCO-2-CE
+Dedicated to the public domain under CC0 1.0 (see LICENSE.txt); credit to Versilian Studios requested by the authors.
+Changes: samples converted losslessly from WAV to FLAC (SFZ sample paths updated); an instrument list
+(Orchestra.programs.json) added for SoniqGrid's Orchestra; unused folders left out.
