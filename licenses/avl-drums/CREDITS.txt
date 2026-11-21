@@ -1,0 +1,8 @@
+Studio Kits (AVL Drumkits)
+AVL Drumkits 1.0 and AVL Drumkits Percussion 1.0 by Glen MacArthur (with Jeff G.), http://www.bandshed.net/avldrumkits/
+Licensed under Creative Commons Attribution-ShareAlike 3.0 (CC BY-SA 3.0): https://creativecommons.org/licenses/by-sa/3.0/
+
+Changes for this package: maker and model names were removed from the kit, file and sample names (the kits are called
+"Studio Kit" and "Vintage Kit" here), comments were removed from the SFZ files, and the samples were converted losslessly
+from WAV to FLAC; a mistyped sample path in the 4-piece kit was fixed. The recordings, mapping, levels and pans are unchanged. This modified sample set is shared under the
+same licence. Music made with these samples may be licensed any way you like.

@@ -1,0 +1,9 @@
+Rock Kit (DrumGizmo)
+Drum samples provided by DrumGizmo.org: MuldjordKit by Lars Muldjord and Bent Bisballe Nyeng.
+SFZ port by the sfzinstruments project (github.com/sfzinstruments). Licensed under Creative Commons Attribution 4.0
+International (CC BY 4.0): https://creativecommons.org/licenses/by/4.0/
+When used in a composition, credit it where other credits are given: "Drum samples provided by DrumGizmo.org".
+
+Changes for this package: the microphone channels of every hit were mixed to one stereo sample with the kit's default mix
+(levels, pans, overhead / ambience width; bleed off) and stored as FLAC; ARIA-only opcodes (CC modulation, per-layer
+velocity curves, per-note polyphony, choke fade times) were removed; the choke regions play a short silent file.

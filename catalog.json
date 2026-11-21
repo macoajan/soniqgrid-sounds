@@ -1,6 +1,69 @@
 {
   "packages": [
     {
+      "attribution": "AVL Drumkits by Glen MacArthur, CC BY-SA 3.0 (samples renamed, converted to FLAC).",
+      "entryFile": "avl-drums/Studio Kits.programs.json",
+      "homepage": "http://www.bandshed.net/avldrumkits/",
+      "id": "avl-drums",
+      "installedBytes": 47000000,
+      "instruments": [
+        "Sadr"
+      ],
+      "licence": "CC BY-SA 3.0",
+      "name": "Acoustic Drums: Studio Kits (AVL)",
+      "parts": [
+        {
+          "bytes": 16099328,
+          "sha256": "2c3856ecd619cca783d09d941968086f29c9264da1298e5052892e9326f62a35",
+          "url": "https://github.com/macoajan/soniqgrid-sounds/releases/download/avl-drums-1/avl-drums-1.tar.001"
+        }
+      ],
+      "summary": "Two acoustic kits in 4- and 5-piece setups (5 velocity layers, cymbal chokes, hi-hat articulations) and a hand percussion set.",
+      "version": "1"
+    },
+    {
+      "attribution": "Drum samples provided by DrumGizmo.org (MuldjordKit), CC BY 4.0; SFZ port by sfzinstruments; mixed to stereo.",
+      "entryFile": "dg-rock-kit/Rock Kit.programs.json",
+      "homepage": "https://drumgizmo.org/wiki/doku.php?id=kits:muldjordkit",
+      "id": "dg-rock-kit",
+      "installedBytes": 145000000,
+      "instruments": [
+        "Sadr"
+      ],
+      "licence": "CC BY 4.0",
+      "name": "Acoustic Drums: Rock Kit (DrumGizmo)",
+      "parts": [
+        {
+          "bytes": 64556032,
+          "sha256": "d983d00267d8e9a2f8a20796cabc24e255aac6e7c8bf99495eac4f22c6e89c60",
+          "url": "https://github.com/macoajan/soniqgrid-sounds/releases/download/dg-rock-kit-1/dg-rock-kit-1.tar.001"
+        }
+      ],
+      "summary": "A big rock and metal kit mixed to stereo: two kicks, four toms, crashes, two rides and a china, with round robins and cymbal chokes.",
+      "version": "1"
+    },
+    {
+      "attribution": "Drum samples provided by DrumGizmo.org (DRSKit), CC BY 4.0; SFZ port by sfzinstruments; mixed to stereo.",
+      "entryFile": "dg-session-kit/Session Kit.programs.json",
+      "homepage": "https://drumgizmo.org/wiki/doku.php?id=kits:drskit",
+      "id": "dg-session-kit",
+      "installedBytes": 280000000,
+      "instruments": [
+        "Sadr"
+      ],
+      "licence": "CC BY 4.0",
+      "name": "Acoustic Drums: Session Kit (DrumGizmo)",
+      "parts": [
+        {
+          "bytes": 126765568,
+          "sha256": "29e286466b7ace8cb040f2b0a3ec96aa6ee9404eb38d50306dcee842bd1b25a7",
+          "url": "https://github.com/macoajan/soniqgrid-sounds/releases/download/dg-session-kit-1/dg-session-kit-1.tar.001"
+        }
+      ],
+      "summary": "A multi-miked kit for jazz to rock, mixed to stereo: many velocity layers and round robins, variable hi-hat, cymbal chokes, brushes.",
+      "version": "1"
+    },
+    {
       "attribution": "Fluid (R3) SoundFont by Frank Wen, MIT licence.",
       "entryFile": "fluidr3-gm/FluidR3_GM.sf2",
       "homepage": "https://github.com/pianobooster/fluid-soundfont",
