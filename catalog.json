@@ -34,13 +34,13 @@
       "name": "Acoustic Drums: Rock Kit (DrumGizmo)",
       "parts": [
         {
-          "bytes": 64556032,
-          "sha256": "d983d00267d8e9a2f8a20796cabc24e255aac6e7c8bf99495eac4f22c6e89c60",
-          "url": "https://github.com/macoajan/soniqgrid-sounds/releases/download/dg-rock-kit-1/dg-rock-kit-1.tar.001"
+          "bytes": 64560128,
+          "sha256": "2c6e838041e80c4f5264def5c64d91aa3ff5a2fd2ddd5758c4be50e869d0cdf3",
+          "url": "https://github.com/macoajan/soniqgrid-sounds/releases/download/dg-rock-kit-2/dg-rock-kit-2.tar.001"
         }
       ],
       "summary": "A big rock and metal kit mixed to stereo: two kicks, four toms, crashes, two rides and a china, with round robins and cymbal chokes.",
-      "version": "1"
+      "version": "2"
     },
     {
       "attribution": "Drum samples provided by DrumGizmo.org (DRSKit), CC BY 4.0; SFZ port by sfzinstruments; mixed to stereo.",
@@ -55,13 +55,13 @@
       "name": "Acoustic Drums: Session Kit (DrumGizmo)",
       "parts": [
         {
-          "bytes": 126765568,
-          "sha256": "29e286466b7ace8cb040f2b0a3ec96aa6ee9404eb38d50306dcee842bd1b25a7",
-          "url": "https://github.com/macoajan/soniqgrid-sounds/releases/download/dg-session-kit-1/dg-session-kit-1.tar.001"
+          "bytes": 126771200,
+          "sha256": "131f1da29ae01742ccc018e2d19c916acf237cf9b616184ba1c68e5d8463e0ef",
+          "url": "https://github.com/macoajan/soniqgrid-sounds/releases/download/dg-session-kit-2/dg-session-kit-2.tar.001"
         }
       ],
       "summary": "A multi-miked kit for jazz to rock, mixed to stereo: many velocity layers and round robins, variable hi-hat, cymbal chokes, brushes.",
-      "version": "1"
+      "version": "2"
     },
     {
       "attribution": "Fluid (R3) SoundFont by Frank Wen, MIT licence.",
