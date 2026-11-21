@@ -43,6 +43,27 @@
       "version": "2"
     },
     {
+      "attribution": "Drum samples provided by DrumGizmo.org (MuldjordKit), CC BY 4.0; SFZ port by sfzinstruments.",
+      "entryFile": "dg-rock-kit-mm/Rock Kit.programs.json",
+      "homepage": "https://drumgizmo.org/wiki/doku.php?id=kits:muldjordkit",
+      "id": "dg-rock-kit-mm",
+      "installedBytes": 1165000000,
+      "instruments": [
+        "Sadr"
+      ],
+      "licence": "CC BY 4.0",
+      "name": "Acoustic Drums: Rock Kit Multi-Mic (DrumGizmo)",
+      "parts": [
+        {
+          "bytes": 350498304,
+          "sha256": "d8fa741bbff51d1ffca0a58dfdf399a5e22c8e8e748a437fc2eb060cf24da338",
+          "url": "https://github.com/macoajan/soniqgrid-sounds/releases/download/dg-rock-kit-mm-1/dg-rock-kit-mm-1.tar.001"
+        }
+      ],
+      "summary": "The Rock Kit with all its microphones, mixed live in the plug-in's Controls tab (levels, pans, width, bleed; the kick trigger channel starts off). Heavier on the CPU than the stereo edition.",
+      "version": "1"
+    },
+    {
       "attribution": "Drum samples provided by DrumGizmo.org (DRSKit), CC BY 4.0; SFZ port by sfzinstruments; mixed to stereo.",
       "entryFile": "dg-session-kit/Session Kit.programs.json",
       "homepage": "https://drumgizmo.org/wiki/doku.php?id=kits:drskit",
@@ -62,6 +83,27 @@
       ],
       "summary": "A multi-miked kit for jazz to rock, mixed to stereo: many velocity layers and round robins, variable hi-hat, cymbal chokes, brushes.",
       "version": "2"
+    },
+    {
+      "attribution": "Drum samples provided by DrumGizmo.org (DRSKit), CC BY 4.0; SFZ port by sfzinstruments.",
+      "entryFile": "dg-session-kit-mm/Session Kit.programs.json",
+      "homepage": "https://drumgizmo.org/wiki/doku.php?id=kits:drskit",
+      "id": "dg-session-kit-mm",
+      "installedBytes": 1690000000,
+      "instruments": [
+        "Sadr"
+      ],
+      "licence": "CC BY 4.0",
+      "name": "Acoustic Drums: Session Kit Multi-Mic (DrumGizmo)",
+      "parts": [
+        {
+          "bytes": 759070208,
+          "sha256": "4938a18c2638fa97fc1cc1bcb61036fefd59e3a3afb80216510982b97885513d",
+          "url": "https://github.com/macoajan/soniqgrid-sounds/releases/download/dg-session-kit-mm-1/dg-session-kit-mm-1.tar.001"
+        }
+      ],
+      "summary": "The Session Kit with all 13 microphones, mixed live in the plug-in's Controls tab (levels, pans, overhead and room width, bleed). Heavier on the CPU than the stereo edition.",
+      "version": "1"
     },
     {
       "attribution": "Fluid (R3) SoundFont by Frank Wen, MIT licence.",

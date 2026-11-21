@@ -1,0 +1,8 @@
+Session Kit (Multi-Mic)
+Drum samples provided by DrumGizmo.org: DRSKit by Lars Muldjord, Bent Bisballe Nyeng and Jes Eiler.
+SFZ port by the sfzinstruments project (github.com/sfzinstruments). Licensed under Creative Commons Attribution 4.0
+International (CC BY 4.0): https://creativecommons.org/licenses/by/4.0/
+When used in a composition, credit it where other credits are given: "Drum samples provided by DrumGizmo.org".
+
+Changes for this package: every microphone is kept and mixed live with the kit's own controls; the choke regions play a
+short silent file; keyswitch modes are named Sticks / Variable Hi-Hat / Brushes; only the main SFZ variant is included.
