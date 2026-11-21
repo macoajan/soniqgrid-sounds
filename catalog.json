@@ -85,11 +85,116 @@
       "version": "1"
     },
     {
+      "attribution": "Versilian Community Sample Library (VCSL) by Versilian Studios LLC (Sam Gossner and contributors), CC0.",
+      "entryFile": "vcsl-keys/Historic Keys.programs.json",
+      "homepage": "https://github.com/sgossner/VCSL",
+      "id": "vcsl-keys",
+      "installedBytes": 745000000,
+      "instruments": [
+        "Sorc"
+      ],
+      "licence": "CC0 1.0",
+      "name": "Orchestra: Historic Keys (VCSL)",
+      "parts": [
+        {
+          "bytes": 252679680,
+          "sha256": "96ba0c47fe43404292f27a1f8528eee9197e64899fb0997fedbd87ad9e6cf908",
+          "url": "https://github.com/macoajan/soniqgrid-sounds/releases/download/vcsl-keys-1/vcsl-keys-1.tar.001"
+        }
+      ],
+      "summary": "Five harpsichords, a Renaissance organ and a bowed and plucked psaltery, with keyswitched registers.",
+      "version": "1"
+    },
+    {
+      "attribution": "Versilian Community Sample Library (VCSL) by Versilian Studios LLC (Sam Gossner and contributors), CC0.",
+      "entryFile": "vcsl-mallets/Mallets and Bells.programs.json",
+      "homepage": "https://github.com/sgossner/VCSL",
+      "id": "vcsl-mallets",
+      "installedBytes": 386000000,
+      "instruments": [
+        "Sorc"
+      ],
+      "licence": "CC0 1.0",
+      "name": "Orchestra: Mallets & Bells (VCSL)",
+      "parts": [
+        {
+          "bytes": 85588992,
+          "sha256": "daea4545f2114390f674891f185314e948ee73d6834d80d0f8a5db848778bfa9",
+          "url": "https://github.com/macoajan/soniqgrid-sounds/releases/download/vcsl-mallets-1/vcsl-mallets-1.tar.001"
+        }
+      ],
+      "summary": "Marimba, vibraphone, xylophone, glockenspiels, balafon, tubular bells, hand chimes and hand bells.",
+      "version": "1"
+    },
+    {
+      "attribution": "Versilian Community Sample Library (VCSL) by Versilian Studios LLC (Sam Gossner and contributors), CC0.",
+      "entryFile": "vcsl-percussion/Percussion.programs.json",
+      "homepage": "https://github.com/sgossner/VCSL",
+      "id": "vcsl-percussion",
+      "installedBytes": 845000000,
+      "instruments": [
+        "Sorc"
+      ],
+      "licence": "CC0 1.0",
+      "name": "Orchestra: Percussion (VCSL)",
+      "parts": [
+        {
+          "bytes": 183947776,
+          "sha256": "92f695cbb10849cd841b09de80133957448e8a76442caf026c29d6e8819032f4",
+          "url": "https://github.com/macoajan/soniqgrid-sounds/releases/download/vcsl-percussion-1/vcsl-percussion-1.tar.001"
+        }
+      ],
+      "summary": "Timpani, concert bass drums, snares, toms, cymbals, gongs, hand drums and small orchestral percussion.",
+      "version": "1"
+    },
+    {
+      "attribution": "Versilian Community Sample Library (VCSL) by Versilian Studios LLC (Sam Gossner and contributors), CC0.",
+      "entryFile": "vcsl-winds/Winds and Harps.programs.json",
+      "homepage": "https://github.com/sgossner/VCSL",
+      "id": "vcsl-winds",
+      "installedBytes": 495000000,
+      "instruments": [
+        "Sorc"
+      ],
+      "licence": "CC0 1.0",
+      "name": "Orchestra: Winds & Harps (VCSL)",
+      "parts": [
+        {
+          "bytes": 177899520,
+          "sha256": "01688e5452afef36dcd3d328c8de5644e5451b42f92dcff8e672ed21c1cdc9b6",
+          "url": "https://github.com/macoajan/soniqgrid-sounds/releases/download/vcsl-winds-1/vcsl-winds-1.tar.001"
+        }
+      ],
+      "summary": "Baroque recorders (soprano to bass), tenor saxophone and saxello with keyswitched articulations, concert and folk harps.",
+      "version": "1"
+    },
+    {
+      "attribution": "Versilian Community Sample Library (VCSL) by Versilian Studios LLC (Sam Gossner and contributors), CC0.",
+      "entryFile": "vcsl-world/World.programs.json",
+      "homepage": "https://github.com/sgossner/VCSL",
+      "id": "vcsl-world",
+      "installedBytes": 575000000,
+      "instruments": [
+        "Swld"
+      ],
+      "licence": "CC0 1.0",
+      "name": "World (VCSL)",
+      "parts": [
+        {
+          "bytes": 255549440,
+          "sha256": "4cb94a53471363ac9db594ee30a297a4eeab62856f5a8da6b7b7dbcd38fc64e2",
+          "url": "https://github.com/macoajan/soniqgrid-sounds/releases/download/vcsl-world-1/vcsl-world-1.tar.001"
+        }
+      ],
+      "summary": "Harmonicas, ocarinas, didgeridoo, dan tranh, strumstick, kalimbas, mbiras, wine glasses and whistles.",
+      "version": "1"
+    },
+    {
       "attribution": "VSCO 2 Community Edition by Versilian Studios (Sam Gossner, Simon Dalzell, Elan Hickler), CC0.",
       "entryFile": "vsco2-ce/Orchestra.programs.json",
       "homepage": "https://github.com/sgossner/VSCO-2-CE",
       "id": "vsco2-ce",
-      "installedBytes": 2236000000,
+      "installedBytes": 2090000000,
       "instruments": [
         "Sorc"
       ],
@@ -97,13 +202,13 @@
       "name": "Orchestra (VSCO 2 Community Edition)",
       "parts": [
         {
-          "bytes": 713351680,
-          "sha256": "c62da08bbd94a385f8cd33eadfb59766981db768288f485e563abedb1bce6745",
-          "url": "https://github.com/macoajan/soniqgrid-sounds/releases/download/vsco2-ce-1/vsco2-ce-1.tar.001"
+          "bytes": 694684160,
+          "sha256": "01acaace8a6251975c4f7282d11dc3155bad27a44dca93f6ac3138eb1dcf574f",
+          "url": "https://github.com/macoajan/soniqgrid-sounds/releases/download/vsco2-ce-2/vsco2-ce-2.tar.001"
         }
       ],
-      "summary": "Chamber orchestra: strings with keyswitched articulations, woodwinds, brass, orchestral percussion and keys; 46 instruments.",
-      "version": "1"
+      "summary": "Chamber orchestra: strings with keyswitched articulations, woodwinds, brass, an orchestral percussion kit, organ and upright pianos; 39 instruments.",
+      "version": "2"
     }
   ],
   "version": 1

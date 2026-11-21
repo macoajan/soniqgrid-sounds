@@ -3,3 +3,5 @@ by Elan Hickler. https://github.com/sgossner/VSCO-2-CE
 Dedicated to the public domain under CC0 1.0 (see LICENSE.txt); credit to Versilian Studios requested by the authors.
 Changes: samples converted losslessly from WAV to FLAC (SFZ sample paths updated); an instrument list
 (Orchestra.programs.json) added for SoniqGrid's Orchestra; unused folders left out.
+Version 2 of this package (2026-11-21): harp, timpani, timpani rolls, glockenspiel, xylophone, marimba and tubular bells
+were removed - the Versilian Community Sample Library editions carry fuller recordings of them.

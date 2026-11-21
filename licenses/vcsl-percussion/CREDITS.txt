@@ -1,0 +1,7 @@
+VCSL Percussion
+Part of the Versilian Community Sample Library (VCSL) by Versilian Studios LLC (Sam Gossner and contributors),
+https://github.com/sgossner/VCSL - released under Creative Commons CC0 1.0 (public domain dedication).
+
+Changes for this package: only the instruments listed in the program list are included; samples were converted
+losslessly from WAV to FLAC; maker names were removed from folder and file names; references to samples that are not
+part of this package were removed; keyswitch labels were spelled out. The recordings themselves are unchanged.
